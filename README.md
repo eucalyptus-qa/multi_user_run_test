@@ -1,3 +1,17 @@
+multi_user_run_test
+===================
+
+## Description
+
+Create a new user, run an instance as the new user, and exeucte a command on the VM.
+
+## Procedure
+
+1. Create an account and user
+2. Run a VM using this user 
+3. Run a command inside the VM and verify output
+
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
